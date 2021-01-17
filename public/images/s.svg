@@ -1,0 +1,98 @@
+<svg width="1022px" height="453px" viewBox="0 0 1217 733" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <radialGradient id="SVGID_1_" cx="0" cy="0" r="22" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:rgba(255,255,255,1);"></stop>
+    <stop offset="0.1674" style="stop-color:rgba(255,255,255,1);"></stop>
+    <stop offset="0.1674" style="stop-color:rgba(255,255,255,1);"></stop>
+    <stop offset="0.3" style="stop-color:rgba(255,255,255,.5);"></stop>
+    <stop offset=".3433" style="stop-color:rgba(239, 69, 110,.9);"></stop>
+    <stop offset="1" style="stop-color:rgba(239, 69, 110,0)"></stop>
+                        </radialGradient>
+
+                        <radialGradient id="SVGID_2_" cx="0" cy="0" r="22" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:rgba(255,255,255,1);"></stop>
+    <stop offset="0.1674" style="stop-color:rgba(255,255,255,1);"></stop>
+    <stop offset="0.1674" style="stop-color:rgba(255,255,255,1);"></stop>
+    <stop offset="0.3" style="stop-color:rgba(255,255,255,.5);"></stop>
+    <stop offset=".3433" style="stop-color:rgba(0, 255, 255,.4);"></stop>
+    <stop offset=".4" style="stop-color:rgba(0, 255, 255,.35);"></stop>
+    <stop offset="1" style="stop-color:rgba(0, 255, 255,0)"></stop>
+                        </radialGradient>
+                    <!-- Draw the outline of the motion path in grey, along
+                with 2 small circles at key points -->
+                    <path d="M 0 480 L 0 242 L 205 242 L 205 700 L 336 700 L 336 450 " stroke="lightgrey" stroke-width="0" fill="none" id="theMotionPath"></path>
+                        
+
+                    <!-- Red circle which will be moved along the motion path. -->
+                    <circle id="cir1" cx="0" cy="0" r="20" fill="url(#SVGID_1_)"></circle>
+
+                <!-- Define the motion path animation -->
+                    <animateMotion xlink:href="#cir1" dur="6s" repeatCount="indefinite">
+                    <mpath xlink:href="#theMotionPath"></mpath>
+
+                </animateMotion>
+
+                    <path d="M 0 55 L 0 242 L 205 242 L 205 700 L 336 700 L 336 450 " stroke="lightgrey" stroke-width="0" fill="none" id="theMotionPath6"></path>
+                        
+
+                    <!-- Red circle which will be moved along the motion path. -->
+                    <circle id="cir6" cx="0" cy="0" r="20" fill="url(#SVGID_2_)"></circle>
+
+                <!-- Define the motion path animation -->
+                    <animateMotion xlink:href="#cir6" dur="5s" repeatCount="indefinite">
+                    <mpath xlink:href="#theMotionPath6"></mpath>
+
+                </animateMotion>
+
+                <path d="M 805 0 L 805 133 L 935 133 L 935 580 L 770 580 L 770 430 " stroke="lightgrey" stroke-width="0" fill="none" id="theMotionPath1"></path>
+                        
+
+                    <!-- Red circle which will be moved along the motion path. -->
+                    <circle id="cir2" cx="0" cy="0" r="20" fill="url(#SVGID_1_)"></circle>
+
+                <!-- Define the motion path animation -->
+                    <animateMotion xlink:href="#cir2" dur="4s" repeatCount="indefinite">
+                    <mpath xlink:href="#theMotionPath1"></mpath>
+
+                </animateMotion>
+
+
+                <path d="M 935 120 L 935 133 L 935 580 L 586 580 L 586 515 " stroke="lightgrey" stroke-width="0" fill="none" id="theMotionPath2"></path>
+                        
+
+                    <!-- Red circle which will be moved along the motion path. -->
+                    <circle id="cir3" cx="0" cy="0" r="20" fill="url(#SVGID_2_)"></circle>
+
+                <!-- Define the motion path animation -->
+                    <animateMotion xlink:href="#cir3" dur="4s" repeatCount="indefinite">
+                    <mpath xlink:href="#theMotionPath2"></mpath>
+
+                </animateMotion>
+
+                <path d="M 770 660 L 770 440" stroke="lightgrey" stroke-width="0" fill="none" id="theMotionPath3"></path>
+                        
+
+                    <!-- Red circle which will be moved along the motion path. -->
+                    <circle id="cir4" cx="0" cy="0" r="20" fill="url(#SVGID_1_)"></circle>
+
+                <!-- Define the motion path animation -->
+                    <animateMotion xlink:href="#cir4" dur="1.5s" repeatCount="indefinite">
+                    <mpath xlink:href="#theMotionPath3"></mpath>
+
+                </animateMotion>
+
+                <path d="M 584 730 L 584 520" stroke="lightgrey" stroke-width="0" fill="none" id="theMotionPath4"></path>
+                        
+
+                    <!-- Red circle which will be moved along the motion path. -->
+                    <circle id="cir5" cx="" cy="" r="20" fill="url(#SVGID_2_)"></circle>
+
+                <!-- Define the motion path animation -->
+                    <animateMotion xlink:href="#cir5" dur="1.5s" repeatCount="indefinite">
+                    <mpath xlink:href="#theMotionPath4"></mpath>
+
+                </animateMotion>
+
+
+
+                    
+            </svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="271px" height="652px" viewBox="0 0 271 652" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="114.276461%" y1="25.2588474%" x2="-6.55583779%" y2="40.6099952%" id="linearGradient-1">
+            <stop stop-color="#2BFFE2" offset="0%"></stop>
+            <stop stop-color="#255CFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="114.276461%" y1="25.2588474%" x2="41.2444751%" y2="114.566505%" id="linearGradient-2">
+            <stop stop-color="#2BFFE2" offset="0%"></stop>
+            <stop stop-color="#255CFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="2.46830368%" x2="50%" y2="93.2520204%" id="linearGradient-3">
+            <stop stop-color="#2BFFE2" offset="0%"></stop>
+            <stop stop-color="#255CFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="technology-page-@2x" transform="translate(-464.000000, -2525.000000)" fill-rule="nonzero" stroke-width="10">
+            <g id="Group-26" transform="translate(469.000000, 2526.000000)">
+                <path d="M10.2479157,499 C6.09736293,551.350579 54.0625677,576.65593 154.14353,574.916052 C154.14353,574.916052 154.42902,574.944035 155,575" id="Path-3" stroke="url(#linearGradient-1)"></path>
+                <path d="M117.104386,574 C112.953833,626.350579 160.919038,651.65593 261,649.916052 C261,649.916052 209.857195,649.916052 260.85647,649.916052" id="Path-3" stroke="url(#linearGradient-2)" transform="translate(188.928235, 612.000000) scale(-1, -1) translate(-188.928235, -612.000000) "></path>
+                <path d="M0,5.40012479e-13 L10,499" id="Path-2" stroke="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

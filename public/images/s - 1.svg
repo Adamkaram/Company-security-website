@@ -1,0 +1,28 @@
+<div>
+<svg viewBox="0 0 1217 733" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                  <circle cx="100" cy="100" r="7" className="circle"/>
+
+                    
+            </svg> 
+</div>
+<style>
+
+.circle {
+    fill: rgb(7, 152, 245);
+
+    animation-name: pulse;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+  }
+  
+  @keyframes pulse {
+    from {
+      stroke-width: 0;
+      stroke: rgb(245, 7, 78);
+    }
+    to {
+      stroke-width: 30px;
+      stroke: rgba(7, 152, 245, 0);
+    }
+  }
+</style>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="695px" height="957px" viewBox="0 0 695 957" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="135.9057%" y1="188.40235%" x2="0%" y2="-61.9743087%" id="linearGradient-1">
+            <stop stop-color="#2BFFE2" offset="0%"></stop>
+            <stop stop-color="#5582FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="135.9057%" y1="188.40235%" x2="0%" y2="6.51311154%" id="linearGradient-2">
+            <stop stop-color="#2BFFE2" offset="0%"></stop>
+            <stop stop-color="#255CFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.17849447%" y1="0.380643521%" x2="97.1443418%" y2="90.6385552%" id="linearGradient-3">
+            <stop stop-color="#F27995" offset="0%"></stop>
+            <stop stop-color="#F08099" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="9.31496473%" x2="50%" y2="93.2520204%" id="linearGradient-4">
+            <stop stop-color="#2BFFE2" offset="0%"></stop>
+            <stop stop-color="#F08099" offset="60.6620303%"></stop>
+            <stop stop-color="#255CFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="technology-page-@2x" transform="translate(-373.000000, -1625.000000)" fill-rule="nonzero" stroke-width="10">
+            <g id="Group-25" transform="translate(378.000000, 1626.000000)">
+                <path d="M0.247915736,0 C-3.90263707,52.3505788 44.0625677,77.6559297 144.14353,75.9160525 C144.14353,75.9160525 337.000725,75.9160525 338,75.9160525" id="Path-3" stroke="url(#linearGradient-1)"></path>
+                <path d="M139.247916,875 C135.097363,927.350579 183.062568,952.65593 283.14353,950.916052 C283.14353,950.916052 346.000725,950.916052 347,950.916052" id="Path-3" stroke="url(#linearGradient-2)" transform="translate(243.000000, 913.000000) scale(-1, 1) translate(-243.000000, -913.000000) "></path>
+                <path d="M343.247916,0 C339.097363,52.3505788 387.062568,77.6559297 487.14353,75.9160525 C487.14353,75.9160525 684.000725,75.9160525 685,75.9160525" id="Path-3" stroke="url(#linearGradient-3)" transform="translate(514.000000, 38.000000) scale(-1, 1) translate(-514.000000, -38.000000) "></path>
+                <path d="M337,0 L347,877" id="Path-2" stroke="url(#linearGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
